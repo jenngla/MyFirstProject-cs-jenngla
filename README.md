@@ -1,1 +1,1 @@
-# MyFirstProject-cs-jenngla
+# MyFirstProject-jenngla
